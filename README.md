@@ -15,7 +15,7 @@ The GO Bot user experience is founded on the following principles:
 
 The figure below illustrates the conceptual architecture for the GO Bot Ecosystem.
 
-TODO:  Architecture Figure
+![Architecture](gobot_architecture.png)
 
 At the heart of the GO Bot ecosystem is an intelligent engine that directs the conversation with the user to provide a personalized interaction tailored to the user’s specific intentions and preferences.  The engine interfaces with a wealth of recreation related data from both public and private sources to assist the user with making their recreation decisions.  These data sources are intelligently combined to recommend recreation options that best suit the individual seeking recreation assistance, simplifying the planning process and helping to ensure a satisfying recreation experience.
 
