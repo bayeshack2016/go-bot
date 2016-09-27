@@ -2,6 +2,16 @@
 
 Team:  Booz Allen Hamilton, NIC, Trailhead Labs
 
+This is the top lovel repository for the GO Bot BAYES Hackathon.  GO Bot consists of several different components, each with their own GitHUb repository.  Below are links to the code repositories for GO Bot:
+
+* [GO Bot API/Engine Code Repository](https://github.com/bayeshack2016/go-bot-api)
+* [GO Bot Chat Code Repository](https://github.com/bayeshack2016/go-bot-chat)
+* [GO Bot Sense Code Repository](https://github.com/bayeshack2016/go-bot-sense)
+
+Please see the README files for those repository for additional information on those components.
+
+## What is GO Bot?
+
 Experiencing the great outdoors can be very intimidating for those that are not accustomed to outdoor recreation in America’s public lands.  Major population segments remain underserved by our public recreation resources because they do not know where to start, what to do, and how to make the most from their outdoor experience.  Traditional digital recreation tools are tailored to those already experienced and comfortable with outdoor recreation.  The GO Bot ecosystem, on the other hand, is designed to provide all users with a powerful set of tools regardless of recreation experience level.  These tools are engaged through a conversational user interface via a variety of interaction channels.  Effectively, the GO Bot Ecosystem serves as an intelligent assistant capable of assisting the user throughout the entire recreation lifecycle.
 
 The GO Bot user experience is founded on the following principles:
