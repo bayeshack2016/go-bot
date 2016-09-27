@@ -2,13 +2,13 @@
 
 Team:  Booz Allen Hamilton, NIC, Trailhead Labs
 
-This is the top lovel repository for the GO Bot BAYES Hackathon.  GO Bot consists of several different components, each with their own GitHUb repository.  Below are links to the code repositories for GO Bot:
+This is the top lovel repository for the GO Bot BAYES Hackathon project.  GO Bot consists of several different components, each with their own GitHub repository.  Here are links to the main code repositories for GO Bot:
 
 * [GO Bot API/Engine Code Repository](https://github.com/bayeshack2016/go-bot-api)
 * [GO Bot Chat Code Repository](https://github.com/bayeshack2016/go-bot-chat)
 * [GO Bot Sense Code Repository](https://github.com/bayeshack2016/go-bot-sense)
 
-Please see the README files for those repository for additional information on those components.
+Please see the README files in each of those repositories for additional information on those components.
 
 ## What is GO Bot?
 
