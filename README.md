@@ -1,4 +1,4 @@
-# The GO Bot Ecosystem
+# The GO Bot Ecosystem Project
 
 Team:  Booz Allen Hamilton, NIC, Trailhead Labs
 
